@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/g07vwLwr)
-
-
 # React Meeting Notes App
 
 This project is designed as a part of a learning assignment focused on React.js and integrating it with a Node.js backend. The application allows users to create, read, update, and delete meeting notes, making it a practical tool for managing meeting summaries and action items.
